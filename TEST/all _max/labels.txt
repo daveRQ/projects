@@ -1,0 +1,50 @@
+1 person person bicycle car car car car car car car
+2 person bicycle person bicycle person bicycle person bicycle person bicycle
+3 person bicycle
+4 person bicycle
+5 dog cat
+6 dog dog dog cat cat
+7 dog cat
+8 person dog cat
+9 dog cat person
+10 person dog
+11 car person
+12 sandwich
+13 sandwich person
+14 apple orange
+15 apple orange banana
+16 apple apple apple apple
+17 person apple
+18 person apple
+19 person carrot
+20 cow cow cow cow
+21 person person person person tv
+22 person pizza
+23 pizza
+24 zebra zebra
+25 person person person 
+26 person elephant
+27 umbrella person person
+28 umbrella person person
+29 umbrella person
+30 tie person
+31 person car car car car car car car car car
+32 peron backpack
+33 backpack backpack backpack person person person
+34 book person
+35 book person
+36 train
+37 train
+38 train
+39 train person person person person person
+40 train
+41 person bottle
+42 car car car person backpack
+43 car car car person person person
+44 bus bus bus bus person person person
+45 person person person person bus bus bus bus
+46 person person person person person person bus bus
+47 person person person person dog
+48 person laptop
+49 person laptop
+50 person laptop

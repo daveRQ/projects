@@ -1,0 +1,50 @@
+1 cow
+2 cow
+3 cow
+4 cow cow
+5 cow
+6 cow cow cow
+7 cow cow
+8 cow cow
+9 cow
+10 cow cow
+11 cow cow
+12 cow cow cow
+13 cow cow
+14 cow cow cow
+15 cow cow cow
+16 cow cow cow cow
+17 cow cow cow
+18 cow
+19 cow cow
+20 cow
+21 cow cow cow
+22 cow cow cow
+23 cow cow cow cow cow cow
+24 cow
+25 cow
+26 cow
+27 cow cow
+28 cow
+29 cow
+30 cow
+31 cow
+32 cow
+33 cow
+34 cow
+35 cow
+36 cow
+37 cow
+38 cow cow cow cow
+39 cow
+40 cow
+41 cow cow cow cow cow cow cow
+42 cow
+43 cow
+44 cow
+45 cow
+46 cow
+47 cow
+48 cow cow
+49 cow
+50 cow

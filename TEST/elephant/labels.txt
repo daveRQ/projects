@@ -1,0 +1,50 @@
+1 elephant
+2 elephant
+3 elephant elephant
+4 elephant elephant elephant elephant elephant
+5 elephant elephant
+6 elephant elephant elephant elephant elephant elephant elephant
+7 elephant elephant elephant
+8 elephant elephant
+9 elephant elephant
+10 elephant elephant
+11 elephant elephant
+12 elephant elephant elephant elephant
+13 elephant elephant
+14 elephant elephant elephant
+15 elephant elephant elephant
+16 elephant elephant elephant
+17 elephant elephant
+18 elephant elephant
+19 elephant elephant
+20 elephant elephant
+21 elephant elephant elephant
+22 elephant elephant elephant elephant
+23 elephant elephant
+24 elephant elephant
+25 elephant
+26 elephant elephant elephant
+27 elephant
+28 elephant elephant
+29 elephant elephant elephant
+30 elephant
+31 elephant elephant
+32 elephant
+33 elephant elephant
+34 elephant elephant elephant
+35 elephant elephant elephant
+36 elephant elephant elephant elephant elephant elephant
+37 elephant elephant elephant elephant elephant
+38 elephant elephant
+39 elephant elephant elephant elephant elephant
+40 elephant elephant elephant elephant elephant
+41 elephant
+42 elephant
+43 elephant elephant elephant
+44 elephant elephant
+45 elephant elephant
+46 elephant elephant
+47 elephant elephant elephant
+48 elephant elephant elephant
+49 elephant elephant elephant
+50 elephant

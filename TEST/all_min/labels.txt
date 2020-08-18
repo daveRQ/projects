@@ -1,0 +1,19 @@
+1 dog dog dog dog dog dog
+2 dog
+3 dog dog dog dog dog dog dog dog dog
+4 dog dog
+5 dog
+6 dog
+7 dog dog dog dog
+8 dog person
+9 dog person
+10 dog person
+11 dog person person
+12 dog person
+13 dog
+14 dog person
+15 dog dog person
+16 dog person
+17 dog dog dog dog dog person person person person person person person
+18 dog person
+19 dog dog dog dog
